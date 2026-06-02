@@ -1,5 +1,9 @@
-// MARK: - Components.swift
-// Reusable SwiftUI components
+//
+//  BookCoverView.swift
+//  BookCoverView
+//
+//  Created by Shivam Trivedi on 18/04/26.
+//
 
 import SwiftUI
 

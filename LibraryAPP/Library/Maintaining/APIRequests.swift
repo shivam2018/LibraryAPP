@@ -1,6 +1,9 @@
-// MARK: - OpenLibraryRequests.swift
-// Concrete API requests using Open Library (free, no API key needed)
-// Docs: https://openlibrary.org/developers/api
+//
+//  SearchBooksRequest.swift
+//  SearchBooksRequest
+//
+//  Created by Shivam Trivedi on 18/04/26.
+//
 
 import Foundation
 

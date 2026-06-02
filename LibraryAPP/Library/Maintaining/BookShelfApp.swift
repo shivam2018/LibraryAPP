@@ -1,5 +1,9 @@
-// MARK: - BookShelfApp.swift
-// App entry point
+//
+//  BookShelfApp.swift
+//  BookShelfApp
+//
+//  Created by Shivam Trivedi on 18/04/26.
+//
 
 import SwiftUI
 

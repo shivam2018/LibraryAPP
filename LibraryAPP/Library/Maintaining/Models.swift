@@ -1,5 +1,9 @@
-// MARK: - Models.swift
-// Decodable models for Open Library API
+//
+//  Models.swift
+//  Models
+//
+//  Created by Shivam Trivedi on 18/04/26.
+//
 
 import Foundation
 
